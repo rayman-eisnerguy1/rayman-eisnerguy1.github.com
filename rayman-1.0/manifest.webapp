@@ -1,0 +1,20 @@
+    {  
+      "version": "1.0",  
+      "name": "Rayman",
+	  "launch_path": "/index.html",
+      "description": "Rayman wallpapers.",  
+      "icons": {  
+        "16": "/icon-16.png",  
+        "48": "/icon-48.png",  
+        "128": "/icon-128.png"  
+      },  
+      "developer": {  
+        "name": "Space Monster Games",  
+        "url": "http://www.spacemonstergames.co.uk"  
+      },  
+      "installs_allowed_from":   
+        ["*"]  
+      ,  
+      "default_locale": "en",
+      "orientation": "portrait"  
+    }  
