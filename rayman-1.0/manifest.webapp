@@ -1,9 +1,8 @@
 {
+  "version": "1.0",
   "name": "Rayman",
   "description": "Rayman Jungle Run",
-  "type": "certified",
-  "role": "system",
-  "orientation": "portrait-primary",
+
   "developer": {
     "name": "The Gaia Team",
     "url": "https://github.com/mozilla-b2g/gaia"
@@ -43,5 +42,6 @@
   	"description": "Rayman Jungle Run"
     }
   },
-  "default_locale": "en-US"
+  "default_locale": "en-US",
+  "orientation": "portrait-primary"
 }
